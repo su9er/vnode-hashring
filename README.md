@@ -2,7 +2,7 @@
 
 A typescript implementation of consistent hash algorithm based on virtual nodes for Node.js
 
-[![NPM version](https://img.shields.io/npm/v/vnode-hashring?color=a1b858&label=)](https://www.npmjs.com/package/vnode-hashring)
+[![NPM version](https://img.shields.io/npm/v/vnode-hashring?color=a1b858&label=npm)](https://www.npmjs.com/package/vnode-hashring)
 
 ## Installation
 
