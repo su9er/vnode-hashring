@@ -1,17 +1,17 @@
 {
   "name": "vnode-hashring",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packageManager": "pnpm@7.2.1",
   "description": "",
   "author": "su9er",
   "license": "MIT",
-  "homepage": "https://github.com/su9er/hashring#readme",
+  "homepage": "https://github.com/su9er/vnode-hashring#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/su9er/hashring.git"
+    "url": "git+https://github.com/su9er/vnode-hashring.git"
   },
-  "bugs": "https://github.com/su9er/hashring/issues",
+  "bugs": "https://github.com/su9er/vnode-hashring/issues",
   "keywords": [
     "hashring"
   ],
